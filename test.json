@@ -1,0 +1,12 @@
+{
+  "message": "포지션 리스트가 조회되었습니다.",
+  "status": 200,
+  "code": "P004",
+  "result": {
+    "totalCount": 0,
+    "page": 240,
+    "keyword": null,
+    "keywordType": "etc",
+    "positions": []
+  }
+}
