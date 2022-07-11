@@ -23,20 +23,21 @@ def change_url_page(page):
         url_temp = "https://api.jumpit.co.kr/api/positions?page=" + str(dynamic_page) + "&sort=reg_dt&highlight=false"
         return url_temp
 
-for page in range(PAGE):
-    url = change_url_page(dynamic_page)
+url = change_url_page(dynamic_page)
 
-    result = requests.get(url, headers=headers)
-    result.raise_for_status()  # 정상적으로 접속이 되었는지 확인
-    result.encoding = "utf8"
+if url != "400":
+    for page in range(PAGE):
+        result = requests.get(url, headers=headers)
+        result.raise_for_status()  # 정상적으로 접속이 되었는지 확인
+        result.encoding = "utf8"
 
-    stock_data = json.loads(result.text) # json 형태의 데이터 저장
+        stock_data = json.loads(result.text) # json 형태의 데이터 저장
 
-    for data in stock_data['result']['positions']:
-        for skill in data['techStacks']:
-            print(skill)
+        for data in stock_data['result']['positions']:
+            for skill in data['techStacks']:
+                print(skill)
 
-    print("----- 동적 " + str(page + 1) + "페이지 끝 -----")
+        print("----- 동적 " + str(page + 1) + "페이지 끝 -----")
 
 
 # with open("jumpit.json", "w", encoding="utf8") as f:
