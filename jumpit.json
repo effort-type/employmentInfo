@@ -1,0 +1,476 @@
+{
+  "message": "포지션 리스트가 조회되었습니다.",
+  "status": 200,
+  "code": "P004",
+  "result": {
+    "totalCount": 3727,
+    "page": 1,
+    "keyword": "",
+    "keywordType": "etc",
+    "positions": [
+      {
+        "id": 10452,
+        "jobCategory": "HW/임베디드",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20211513131504599_3496_3608.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/recruit_14558/20213610153640842_5184_3456.webp",
+        "title": "전력변환장치 설계 엔지니어 경력 채용",
+        "companyName": "컨트롤웍스",
+        "techStacks": [
+          "Orcad",
+          "SPICE"
+        ],
+        "scrapCount": 0,
+        "viewCount": 10,
+        "newcomer": false,
+        "minCareer": 4,
+        "maxCareer": 9,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-07-31T23:59:59",
+        "companyProfileId": 2047,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10481,
+        "jobCategory": "devops/시스템 엔지니어",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/recruit_25093/20214103084120103_128_128.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/recruit_25093/20213903083924379_1560_1080.webp",
+        "title": "인프라개발(서버) 경력 채용",
+        "companyName": "그린카",
+        "techStacks": [
+          "AWS",
+          "Git",
+          "Linux",
+          "K8S",
+          "Kubernetes",
+          "Ansible"
+        ],
+        "scrapCount": 1,
+        "viewCount": 15,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 20,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-07-31T23:59:59",
+        "companyProfileId": 2675,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 6587,
+        "jobCategory": "인공지능/머신러닝",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20223303133305083_700_696.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20223303133313067_3840_2160.webp",
+        "title": "Reinforcement Learning Engineer",
+        "companyName": "플라잎",
+        "techStacks": [
+          "C",
+          "C++",
+          "Python",
+          "MachineLearning",
+          "TensorFlow",
+          "PyTorch"
+        ],
+        "scrapCount": 4,
+        "viewCount": 167,
+        "newcomer": true,
+        "minCareer": 0,
+        "maxCareer": 5,
+        "locations": [
+          "판교 테크노밸리"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 2971,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10580,
+        "jobCategory": "SW/솔루션",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20223303133305083_700_696.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20223303133313067_3840_2160.webp",
+        "title": "Linux Engineer",
+        "companyName": "플라잎",
+        "techStacks": [
+          "Docker",
+          "ROS",
+          "Ubuntu",
+          "Python",
+          "C++",
+          "GUI",
+          "TCP/IP",
+          "Communication",
+          "Linux",
+          "SW"
+        ],
+        "scrapCount": 0,
+        "viewCount": 4,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 5,
+        "locations": [
+          "판교 테크노밸리"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 2971,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10583,
+        "jobCategory": "SW/솔루션",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20222518102523449_230_226.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20222518102528151_854_580.webp",
+        "title": "의료기기 S/W 개발 및 유지보수",
+        "companyName": "인트로메딕",
+        "techStacks": [
+          "Mfc",
+          "C",
+          "C++",
+          "Microsoft Office 365",
+          "SW"
+        ],
+        "scrapCount": 0,
+        "viewCount": 1,
+        "newcomer": false,
+        "minCareer": 5,
+        "maxCareer": 10,
+        "locations": [
+          "구로/가산 디지털단지"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-08-31T23:59:59",
+        "companyProfileId": 3540,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10576,
+        "jobCategory": "프론트엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/images/hmlee_4/20223411163450609_267_263.png",
+        "imagePath": "https://cdn.jumpit.co.kr/images/syyun_26773/20221922151944094_1400_1050.jpg",
+        "title": "[파인원] Web Application 개발자 채용(경력)",
+        "companyName": "파인원커뮤니케이션즈",
+        "techStacks": [
+          "JavaScript",
+          "CSS 3",
+          "Vue.js",
+          "React",
+          "Webpack"
+        ],
+        "scrapCount": 0,
+        "viewCount": 1,
+        "newcomer": false,
+        "minCareer": 2,
+        "maxCareer": 15,
+        "locations": [
+          "구로/가산 디지털단지"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-08-31T23:59:59",
+        "companyProfileId": 3710,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10578,
+        "jobCategory": "SW/솔루션",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/syyun_26773/20224711144712294_300_300.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/smalli219_64744/20224311144348741_1080_720.webp",
+        "title": "CS 프로그램 개발자",
+        "companyName": "민관김비주얼바이브",
+        "techStacks": [
+          "Java",
+          "C++",
+          "Android SDK",
+          "GitHub",
+          "Visual Studio",
+          "SW"
+        ],
+        "scrapCount": 0,
+        "viewCount": 3,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 20,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 3804,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10582,
+        "jobCategory": "프론트엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20225431105431800_1002_998.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20221201141244846_1078_865.webp",
+        "title": "에이전시사업본부/ FrontEnd 채용",
+        "companyName": "미플즈",
+        "techStacks": [
+          "HTML5",
+          "CSS 3",
+          "jQuery",
+          "JavaScript",
+          "React",
+          "Vue.js"
+        ],
+        "scrapCount": 0,
+        "viewCount": 2,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 5,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 3284,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10581,
+        "jobCategory": "서버/백엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20225431105431800_1002_998.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20221201141244846_1078_865.webp",
+        "title": "블록체인/코인거래소 JAVA 개발",
+        "companyName": "미플즈",
+        "techStacks": [
+          "Java",
+          "Spring",
+          "Blockchain"
+        ],
+        "scrapCount": 0,
+        "viewCount": 2,
+        "newcomer": false,
+        "minCareer": 2,
+        "maxCareer": 5,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 3284,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10579,
+        "jobCategory": "DBA",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20213410103423385_245_247.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/recruit_26780/20212210102210396_1920_1080.webp",
+        "title": "[롯데정보통신] 멤버스 IS팀 DBA",
+        "companyName": "롯데정보통신",
+        "techStacks": [
+          "Oracle"
+        ],
+        "scrapCount": 0,
+        "viewCount": 5,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 7,
+        "locations": [
+          "서울"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 2713,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 9888,
+        "jobCategory": "빅데이터 엔지니어",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20222213142243536_260_259.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/jwjang_59861/20225217145205781_2048_1365.webp",
+        "title": "데이터 분석가(Data Analyst)",
+        "companyName": "비트나인",
+        "techStacks": [
+          "RDB",
+          "MariaDB",
+          "SQL",
+          "Python",
+          "Network"
+        ],
+        "scrapCount": 1,
+        "viewCount": 16,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 10,
+        "locations": [
+          "서울"
+        ],
+        "alwaysOpen": true,
+        "closedAt": "9999-12-31T23:59:59",
+        "companyProfileId": 3661,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 838,
+        "jobCategory": "안드로이드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/jwseo_3/20211824181825409_148_148.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/jwseo_3/20211824181836642_1080_790.webp",
+        "title": "[450만의 선택 데이트팝] 안드로이드 앱 개발자",
+        "companyName": "텐핑거스",
+        "techStacks": [
+          "Kotlin",
+          "Git",
+          "Slack",
+          "Jira",
+          "notion.so",
+          "GitHub",
+          "RxJS",
+          "Java",
+          "Android OS"
+        ],
+        "scrapCount": 14,
+        "viewCount": 809,
+        "newcomer": false,
+        "minCareer": 2,
+        "maxCareer": 20,
+        "locations": [
+          "서초"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-07-24T23:59:59",
+        "companyProfileId": 26,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 7454,
+        "jobCategory": "서버/백엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20211316131335497_469_450.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/dabin_3358/20211316131341153_1600_995.webp",
+        "title": "백엔드 개발자",
+        "companyName": "집닥",
+        "techStacks": [
+          "Java",
+          "Spring Boot",
+          "Spring Security",
+          "MySQL",
+          "Amazon Aurora",
+          "Gradle",
+          "Spring MVC",
+          "Spring Framework",
+          "Mybatis",
+          "REST API"
+        ],
+        "scrapCount": 5,
+        "viewCount": 303,
+        "newcomer": false,
+        "minCareer": 10,
+        "maxCareer": 15,
+        "locations": [
+          "강남"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-08-31T23:59:59",
+        "companyProfileId": 1028,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 7082,
+        "jobCategory": "서버/백엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/careers_41771/20222423172404625_161_161.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/careers_41771/20221723171726791_1080_790.webp",
+        "title": "Back-end Engineer (백엔드 엔지니어)",
+        "companyName": "에너닷",
+        "techStacks": [
+          "Node.js",
+          "TypeScript",
+          "NestJS",
+          "NoSql",
+          "Git",
+          "AWS",
+          "Linux",
+          "Docker"
+        ],
+        "scrapCount": 6,
+        "viewCount": 428,
+        "newcomer": false,
+        "minCareer": 2,
+        "maxCareer": 4,
+        "locations": [
+          "서초"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-08-31T23:59:59",
+        "companyProfileId": 3100,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 9439,
+        "jobCategory": "프론트엔드 개발자",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/hmlee_4/20213021153026898_410_410.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/work_17537/20213721143728285_1412_1412.webp",
+        "title": "프론트엔드 (경력 2년이상 필수) / React + React native",
+        "companyName": "패니지먼트",
+        "techStacks": [
+          "React",
+          "Create React Native App",
+          "TypeScript",
+          "ES6",
+          "JavaScript",
+          "HTML5",
+          "CSS 3",
+          "Redux",
+          "React Native",
+          "REST API"
+        ],
+        "scrapCount": 2,
+        "viewCount": 154,
+        "newcomer": false,
+        "minCareer": 3,
+        "maxCareer": 5,
+        "locations": [
+          "서울"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-07-31T23:59:59",
+        "companyProfileId": 2338,
+        "celebration": 70,
+        "scraped": false
+      },
+      {
+        "id": 10279,
+        "jobCategory": "빅데이터 엔지니어",
+        "logo": "https://cdn.jumpit.co.kr/lg/images/syyun_26773/20220931110935161_400_400.webp",
+        "imagePath": "https://cdn.jumpit.co.kr/lg/images/syyun_26773/20221131111141884_1196_912.webp",
+        "title": "데이터 사이언티스트(알고리즘 응용, 개발)",
+        "companyName": "알티모빌리티",
+        "techStacks": [
+          "Python",
+          "R",
+          "SQL"
+        ],
+        "scrapCount": 0,
+        "viewCount": 25,
+        "newcomer": false,
+        "minCareer": 1,
+        "maxCareer": 3,
+        "locations": [
+          "서초"
+        ],
+        "alwaysOpen": false,
+        "closedAt": "2022-07-31T23:59:59",
+        "companyProfileId": 3259,
+        "celebration": 70,
+        "scraped": false
+      }
+    ]
+  }
+}
