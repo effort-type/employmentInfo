@@ -25,9 +25,6 @@ for data in stock_data['result']['positions']:
         print(skill)
     print("----- 동적 " + str(dynamic_page + 1) + "페이지 끝 -----")
 
-if len(stock_data['result']['positions']) == 0:
-    break
-
 print(len(stock_data['result']['positions']))
 
 with open("test.json", "w", encoding="utf8") as f:
